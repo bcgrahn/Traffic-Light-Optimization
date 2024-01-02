@@ -14,3 +14,10 @@ proposed engineering solution is a fraction of the cost and exhibits great flexi
 
 ![Alt text](live_plot.gif
 )
+
+![Alt text](image.png)
+
+![Alt text](image-1.png)
+
+### Powerpoint presentation
+https://firebasestorage.googleapis.com/v0/b/investigation-project-33a2b.appspot.com/o/Traffic-light-presentation-final.pptx?alt=media&token=70041462-e47c-41b8-b49f-a9c9064c3c98
